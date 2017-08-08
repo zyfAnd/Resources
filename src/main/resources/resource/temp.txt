@@ -69,5 +69,10 @@ public class Dom4jDemo implements XmlDocument {
         if (flag) {
             alert.accept();
         }
-
+------------------
+    <dependency>
+        <groupId>xalan</groupId>
+        <artifactId>xalan</artifactId>
+        <version>2.7.1</version>
+    </dependency>
 
